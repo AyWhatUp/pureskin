@@ -50,7 +50,7 @@ html {
 }
 
 .silk-logo {
-    max-width: 65px;
+    max-width: 110px; /* Increased for PureSkin logo */
 }
 
 .footer-logos {
@@ -279,7 +279,6 @@ h2 {
 
 .guarantee-text strong u {
     font-weight: 900;
-    /* No color change - stays white */
 }
 
 /* Embedded Video Container (Responsive) */
@@ -347,7 +346,7 @@ h2 {
     }
 
     .silk-logo {
-        max-width: 52px;
+        max-width: 85px; /* Proportional increase on mobile */
     }
 
     h1 {
